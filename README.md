@@ -17,5 +17,7 @@
  - Install ollama, & use basic commands to talk to Llama-3 7B model
  -   ollama run llama3 (Explore ollama for more, like customize/fine-tune)
  -   ![image](https://github.com/sayanroy07/Llama-3/assets/39030649/9f0da840-5f6e-4951-a780-8157a0741c73)
+ -   ![image](https://github.com/sayanroy07/Llama-3/assets/39030649/a851a903-cc11-4e96-95a7-2af311c788a7)
+
 
  - I have 8 GB DD3 RAM on my Laptop, hence I faced latency, but having GPU would be smooth like Ice Cream
