@@ -16,7 +16,7 @@
  - You would need ollama open-source framework (https://ollama.com/)
  - Install ollama, & use basic commands to talk to Llama-3 7B model
  -   ollama run llama3 (Explore ollama for more, like customize/fine-tune)
- -   ![image](https://github.com/sayanroy07/Llama-3/assets/39030649/9f0da840-5f6e-4951-a780-8157a0741c73)
+ -   ![image](https://github.com/sayanroy07/Llama-3/assets/39030649/3de4d776-fc68-4618-8053-9714ed48a235)
  -   ![image](https://github.com/sayanroy07/Llama-3/assets/39030649/a851a903-cc11-4e96-95a7-2af311c788a7)
 
 
